@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kounen Aftab 👋
+# Hi, I'm Kounen Aftab 
 ### ML & GenAI Engineer · Jaipur, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kounen%20Aftab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kounen-aftab-5678bb244/)
